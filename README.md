@@ -1,35 +1,57 @@
-### Hi there, I'm Ugur 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9BF5&center=true&vCenter=true&random=false&width=700&lines=Hi+there%2C+I'm+Ugur+%F0%9F%91%8B;Software+Engineering+Manager;Open+Source+Contributor;Building+scalable+e-commerce+systems" alt="Typing SVG" />
+</div>
 
-#### Software Engineering Manager & Open Source Contributor
+<div align="center">
 
-- 🏢 Leading engineering teams at [Hepsiburada](https://www.hepsiburada.com) (NASDAQ: HEPS), one of Turkey's largest e-commerce platforms
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ugurtafrali)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/utafrali)
+[![Profile Views](https://komarev.com/ghpvc/?username=utafrali&style=for-the-badge&color=2e9bf5)](https://github.com/utafrali)
+
+</div>
+
+---
+
+### About Me
+
+- 🏢 Leading engineering teams at [**Hepsiburada**](https://www.hepsiburada.com) (NASDAQ: HEPS), one of Turkey’s largest e-commerce platforms
 - 🛒 10+ years of experience building diverse e-commerce systems — product catalogs, image processing pipelines & deduplication engines
 - 🌱 Passionate about distributed systems, event-driven architecture & scalable platforms
-- 💬 Ask me about Java, Kafka, microservices, or high-traffic e-commerce systems
+- 📍 Based in **Istanbul, Turkey**
+- 💬 Ask me about **Java, Kafka, microservices, or high-traffic e-commerce systems**
 
-##### Connect with me:
+---
 
-[<img align="left" alt="utafrali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="utafrali | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+### Tech Stack
 
-<br />
+<div align="center">
 
-##### My Stack:
+**Languages**
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)][home]
-[![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0.svg?logo=typescript&logoColor=white)][home]
-[![Python](https://img.shields.io/badge/Python-%233B8EB5.svg?logo=python&logoColor=white)][home]
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)][home]
-[![Spring](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=spring&logoColor=white)][home]
-[![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?logo=apache-kafka&logoColor=white)][home]
-[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)][home]
-[![Kubernetes](https://img.shields.io/badge/K8s-%23326CE5.svg?logo=kubernetes&logoColor=white)][home]
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)][home]
-[![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)][home]
-[![Elasticsearch](https://img.shields.io/badge/Elastic-%23005571.svg?logo=elasticsearch&logoColor=white)][home]
-[![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazon-aws&logoColor=white)][home]
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/utafrali)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/utafrali)
+[![Python](https://img.shields.io/badge/Python-%233B8EB5.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/utafrali)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/utafrali)
 
-##### Domain Expertise:
+**Frameworks & Tools**
+
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/utafrali)
+[![Apache Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://github.com/utafrali)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/utafrali)
+[![Kubernetes](https://img.shields.io/badge/K8s-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/utafrali)
+
+**Data & Cloud**
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/utafrali)
+[![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/utafrali)
+[![Elasticsearch](https://img.shields.io/badge/Elastic-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://github.com/utafrali)
+[![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/utafrali)
+
+</div>
+
+---
+
+### Domain Expertise
 
 - 📦 Product catalog & enrichment systems serving millions of SKUs
 - 🖼️ High-throughput image processing pipelines
@@ -37,16 +59,31 @@
 - 📡 Real-time event-driven architectures with Kafka
 - 👥 Building & scaling engineering teams from IC to manager
 
-<img align="left" alt="Ugur's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utafrali&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+---
 
-[![Top Langs][mostusedlang]][home]
+### GitHub Stats
 
-<br clear="both"/>
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=utafrali&theme=vue&hide_border=true)](https://github.com/utafrali)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utafrali&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utafrali&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=tokyonight" />
 
-[home]: https://github.com/utafrali
-[linkedin]: https://www.linkedin.com/in/ugurtafrali
-[github]: https://github.com/utafrali
+</div>
 
-[mostusedlang]: https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utafrali&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=vue
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=utafrali&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utafrali&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+<div align="center">
+  ⭐️ From <a href="https://github.com/utafrali">utafrali</a>
+</div>
