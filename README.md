@@ -53,13 +53,13 @@
 
 ### Domain Expertise
 
-- 🛒 End-to-end e-commerce systems — worked across all major modules from catalog to checkout
+- 🛒 End-to-end e-commerce systems — worked across all major modules
 - 🗂️ **Catalog Management** — product data pipelines, attribute modeling & enrichment at scale
 - 🚀 **High-Traffic Systems** — architected platforms serving millions of daily users
 - 🤖 **AI-Powered Systems** — vector search, deduplication & intelligent product matching
 - 🖼️ High-throughput image processing pipelines
 - 📡 Real-time event-driven architectures with Kafka
-- 👥 Building & scaling engineering teams from IC to manager
+- 👥 Building & scaling engineering teams
 
 ---
 
