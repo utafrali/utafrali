@@ -75,9 +75,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utafrali&theme=tokyo-night&hide_border=true&area=true&days=15" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utafrali&theme=merko&hide_border=true&area=true&days=15" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utafrali&theme=merko&hide_border=true&area=true&days=7" />
 
 </div>
 
