@@ -53,9 +53,11 @@
 
 ### Domain Expertise
 
-- 📦 Product catalog & enrichment systems serving millions of SKUs
+- 🛒 End-to-end e-commerce systems — worked across all major modules from catalog to checkout
+- 🗂️ **Catalog Management** — product data pipelines, attribute modeling & enrichment at scale
+- 🚀 **High-Traffic Systems** — architected platforms serving millions of daily users
+- 🤖 **AI-Powered Systems** — vector search, deduplication & intelligent product matching
 - 🖼️ High-throughput image processing pipelines
-- 🔍 Product deduplication & matching with AI/vector search
 - 📡 Real-time event-driven architectures with Kafka
 - 👥 Building & scaling engineering teams from IC to manager
 
