@@ -79,8 +79,3 @@
 
 </div>
 
----
-
-<div align="center">
-  ⭐️ From <a href="https://github.com/utafrali">utafrali</a>
-</div>
