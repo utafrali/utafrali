@@ -67,7 +67,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=utafrali&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utafrali&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=tokyonight" />
 
 </div>
