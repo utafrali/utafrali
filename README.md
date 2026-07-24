@@ -14,11 +14,11 @@
 
 ### About Me
 
-- 🏢 Leading engineering teams at [**Hepsiburada**](https://www.hepsiburada.com) (NASDAQ: HEPS), one of Turkey’s largest e-commerce platforms
-- 🛒 10+ years of experience building diverse e-commerce systems — product catalogs, image processing pipelines & deduplication engines
-- 🌱 Passionate about distributed systems, event-driven architecture & scalable platforms
-- 📍 Based in **Istanbul, Turkey**
-- 💬 Ask me about **Java, Kafka, microservices, or high-traffic e-commerce systems**
+- 🏢 Software Engineer and Engineering Manager at Hepsiburada (NASDAQ: HEPS), one of Türkiye’s largest e-commerce platforms
+- 🛒 12+ years of experience building large-scale e-commerce systems, including product catalogs, image processing pipelines, and deduplication engines
+- 🌱 Driving the adoption of AI-assisted and spec-driven software development practices across engineering teams
+- 📍 Based in Istanbul, Türkiye
+- 💬 Ask me about Java, Kafka, microservices, AI-assisted development, or high-traffic e-commerce systems
 
 ---
 
