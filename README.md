@@ -14,7 +14,6 @@
 
 ### About Me
 
-- 🏢 Software Engineer and Engineering Manager at Hepsiburada (NASDAQ: HEPS), one of Türkiye’s largest e-commerce platforms
 - 🛒 12+ years of experience building large-scale e-commerce systems, including product catalogs, image processing pipelines, and deduplication engines
 - 🌱 Driving the adoption of AI-assisted and spec-driven software development practices across engineering teams
 - 📍 Based in Istanbul, Türkiye
